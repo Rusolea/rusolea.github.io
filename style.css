@@ -47,7 +47,7 @@ form label{
 }
 
 form input{
-    background-color: #F2F2F2;
+    background: transparent linear-gradient(270deg, #25B3B5 0%, #279D2D 100%) 0% 0% no-repeat padding-box;
     text-align: center;
     border:0; /* // remove default border */
     border-bottom:1px solid #C2C2C2; /* add only bottom border */
